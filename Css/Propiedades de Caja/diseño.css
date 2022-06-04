@@ -1,0 +1,36 @@
+
+.contact-form4{
+    font-size:100%;
+    background-color: brown;
+    height: 100vh;
+}
+.contact-form__h2{
+
+    font-size:2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    line-height: 1.9;
+    font-weight:500;
+}
+.contact-form__p{
+
+    font-size:2em;
+    font-family: 'Nanum Gothic', sans-serif;
+    line-height: 1.9;
+    font-weight: 900;
+    color:blue;
+}
+.contact-form__h2{
+    background-color: brown;
+     padding: 10px 50px;
+     height:100px;
+     width:100px;
+     display: inline-block;
+     box-sizing: content-box;
+     text-align: center;
+     margin:10px 10px;
+     border-radius: 5px;
+     border: 1px solid brown;
+     line-height: normal;
+     box-shadow: 2px 4px 15px 0 black;
+     text-shadow: 2px 2px 7px red;
+}

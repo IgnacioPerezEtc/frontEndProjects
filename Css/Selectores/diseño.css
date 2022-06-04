@@ -1,0 +1,29 @@
+/* Selectores*/
+/*universal:Todo absolutamente va a tomar el valor definido*/
+*{
+    color:blue
+}
+/*de tipo:Le va a dar al valor por el caracter que elijamos*/
+h1{
+    color:red
+}
+/*por clase:Se le puede dar a un grupo de valores*/
+.concha{
+    color:violet
+}
+/*por id:Se le da a un unico valor*/
+#spinetta{
+    color:chocolate
+}
+/*por atributo*/
+[tetas=rico]{
+    color:brown
+}
+/*descendiente*/
+p b{
+    color:black
+}
+/*pseudo clase*/
+b:hover{
+    color:red
+}

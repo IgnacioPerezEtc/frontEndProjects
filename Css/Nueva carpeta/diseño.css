@@ -1,0 +1,22 @@
+
+div{
+ width: 120px;
+    height: 120px;
+    display: block;
+    background:yellow;
+}
+/* utilizaremos el outline para marcar una caja sin cambiar su valor
+mientras que el border se utiliza sabiendo que cambia los valores de las cajas*/
+.caja1{
+    background-color:orange;
+}
+.caja2{
+    background-color:green;
+    position: relative;
+}
+.caja3{
+    background-color:lightblue;
+}
+.caja4{
+    background-color:yellow;
+}

@@ -1,0 +1,31 @@
+*{
+  font-family:Times New Roman;
+}
+h3 {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+h1 {
+  text-align: center;
+  color: #005677;
+  background-color: #c4c4c4;
+}
+footer{
+  font-size:20px;
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+
+.content__img{
+ margin-left:600px;
+}
+.content1__img{
+margin-top: 5px;
+margin-right: 10px;
+}
+.content__b{
+  margin-right: 13px;
+}
